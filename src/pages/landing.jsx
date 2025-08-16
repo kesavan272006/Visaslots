@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './landing.css'; 
+import '../pages/landing.css'; 
 import images from '../assets/image.png'
 
 const Landing = () => {
